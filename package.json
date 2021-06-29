@@ -1,0 +1,23 @@
+{
+  "name": "ever-green-project",
+  "version": "1.0.0",
+  "description": "Thank you for using our template!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KalidMN/ever-green-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KalidMN/ever-green-project/issues"
+  },
+  "homepage": "https://github.com/KalidMN/ever-green-project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
